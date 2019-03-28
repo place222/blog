@@ -35,7 +35,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "java,nodejs,C#,kuberntes,docker,html,css,js,javascript"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -58,7 +58,7 @@ footer:
 
   theme:
     # Theme & scheme info link (Theme - NexT.scheme).
-    enable: false
+    enable: true
     # Version info of NexT after scheme info (vX.X.X).
     version: false
   # -------------------------------------------------------------
@@ -360,7 +360,7 @@ baidu_analytics: 8dc4221a360f3ba4c05301655dd40c85
 
 # 评论
 disqus:
-  enable: true
+  enable: false
   shortname:
   count: true
 
