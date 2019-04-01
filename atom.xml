@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.liuyang87.cn/"/>
-  <updated>2019-03-28T13:42:26.422Z</updated>
+  <updated>2019-04-01T13:58:15.625Z</updated>
   <id>https://blog.liuyang87.cn/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>html 标签介绍</title>
+    <link href="https://blog.liuyang87.cn/2019/04/01/html/"/>
+    <id>https://blog.liuyang87.cn/2019/04/01/html/</id>
+    <published>2019-04-01T13:27:44.000Z</published>
+    <updated>2019-04-01T13:58:15.625Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;120个标签 10个不赞成&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;!--...--&amp;gt;    定义注释。&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&quot;html5-标签&quot;&gt;&lt;a href=&quot;#html5-标签&quot; class=&quot;headerlink&quot; title=&quot;html5
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>rocketmq 1</title>
+    <link href="https://blog.liuyang87.cn/2019/03/29/rocketmq-1/"/>
+    <id>https://blog.liuyang87.cn/2019/03/29/rocketmq-1/</id>
+    <published>2019-03-29T11:36:20.000Z</published>
+    <updated>2019-03-29T12:33:48.964Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;安装namesrv&quot;&gt;&lt;a href=&quot;#安装namesrv&quot; class=&quot;headerlink&quot; title=&quot;安装namesrv&quot;&gt;&lt;/a&gt;安装namesrv&lt;/h3&gt;&lt;figure class=&quot;highlight
+        
+      
+    
+    </summary>
+    
+    
+      <category term="rocketmq" scheme="https://blog.liuyang87.cn/tags/rocketmq/"/>
+    
+  </entry>
   
   <entry>
     <title>上线!</title>
